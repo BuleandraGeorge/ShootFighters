@@ -1,0 +1,49 @@
+# Virtual Environment
+venv/
+
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Django
+*.log
+db.sqlite3
+*.sqlite3
+*.pyc
+*.pyo
+__pycache__/
+*.pyc
+*.pyo
+__pycache__/
+media
+static
+local_settings.py
+
+# Editor-specific files
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+
+# Visual Studio
+*.user
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.pyc
+*.pyo
+*.pyc
+*.pyo
+*.suo
+
+# Windows
+Thumbs.db
+desktop.ini
